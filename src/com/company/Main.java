@@ -7,6 +7,10 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println(number(15, 18));
+        System.out.println(number(40, 0));
+        System.out.println(number(10, 35));
+        System.out.println(number(23, -10));
+        System.out.println(number(28, 20));
     }
 
     public static String number(int ageOfMe, int temperature) {
